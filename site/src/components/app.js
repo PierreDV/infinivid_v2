@@ -1,6 +1,5 @@
-let React = require('react');
-let util = require('util');
-let Component = React.Component;
+import React, { Component } from 'react';
+import util from 'util';
 
 function App() {
   Component.call(this);
